@@ -1,7 +1,7 @@
 # Exp No: 36  
 ## Circular Queue 
-### Name-Ranjith Ganesh B.
-### Reg No-212223060222
+### Name-Royce Niran George A
+### Reg No-212223060231
 ---
 
 ### AIM  
